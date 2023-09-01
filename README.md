@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on  ...
 - 📫 How to reach me ...
 
-<!---
-hi didi mai itne mehnt se ye coding kar ke 
-tumhare liye likha hu kuti 
+<!--
 
 --->
